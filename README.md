@@ -1,7 +1,7 @@
 # Sports-Classification
 
 Overview
-This repository contains an AI model for sports classification based on image recognition. Leveraging deep learning techniques, this project aims to accurately identify various sports from images.
+This GitHub repository contains an AI model for sports classification based on image recognition. Leveraging deep learning techniques, this project aims to accurately identify various sports from images.
 
 Features
 Image Classification: Utilizes convolutional neural networks (CNNs) to classify sports based on uploaded images.
